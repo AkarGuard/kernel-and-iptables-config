@@ -269,7 +269,7 @@ Here are some more iptables rules that are useful to increase the overall securi
 ## whoami
 AkarGuard, officially established in 2022, has become a company developed by the youth of Ankara University, providing DDoS protection, Server Pentest, CEO services and coding services. As AkarGuard Cyber Security Systems, our aim is to help young software developers/cyber security people by sharing many of the projects we have developed as open source.
 
-![AkarLOGO](https://cdn.discordapp.com/attachments/1033143810768773245/1033410281231093932/akar3.jpg)
+![AkarLOGO]([https://cdn.discordapp.com/attachments/1033143810768773245/1033410281231093932/akar3.jpg](https://repository-images.githubusercontent.com/435670364/6f29b61e-6c9f-49a1-8573-58da7120ef9b))
 
 # Contact
 ## [Discord](https://discord.gg/zEPT4BV98w)
