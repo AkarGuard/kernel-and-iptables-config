@@ -274,5 +274,7 @@ AkarGuard, officially established in 2022, has become a company developed by the
 
 # Contact
 ## [Discord](https://discord.gg/zEPT4BV98w)
+# Contact
+## [website](https://akarguard.net/)
 
 
